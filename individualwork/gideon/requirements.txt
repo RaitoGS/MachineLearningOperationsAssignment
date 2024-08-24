@@ -1,0 +1,4 @@
+Flask==3.0.3
+pandas==1.5.3
+pycaret==3.3.2
+Requests==2.32.3
